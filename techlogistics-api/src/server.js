@@ -1,6 +1,6 @@
 import express from 'express';
 import cors from 'cors';
-import clientesRoutes from './routes/clientes.routes.js'; // ¡No olvides el .js al final!
+import clientesRoutes from './routes/clientes.routes.js'; 
 import dotenv from 'dotenv';
 
 dotenv.config();
